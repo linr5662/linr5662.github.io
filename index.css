@@ -17,3 +17,7 @@ body {
 .responses {
     font-family: 'Courier New', Courier, monospace;
 }
+
+.title1 {
+    color: rgb(255, 0, 51);
+}
