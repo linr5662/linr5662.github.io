@@ -1,0 +1,22 @@
+
+
+.responses {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.readingNotes {
+    font-size: 8px;
+    color: rgb(155, 181, 142);
+}
+
+.responses h1 {
+  color: rgb(18, 113, 221);
+}
+
+.responses h2 {
+  color: rgb(137, 141, 24);
+}
+
+.size1 {
+  width: 300px;
+}
