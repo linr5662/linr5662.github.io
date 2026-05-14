@@ -6,7 +6,7 @@
 
 .readingNotes {
     font-size: 8px;
-    color: rgb(155, 181, 142);
+    color: rgb(7, 20, 1);
 }
 
 .responses h1 {
@@ -19,4 +19,17 @@
 
 .size1 {
   width: 300px;
+  transform: rotate(10deg) skew(5deg);
+  opacity: 0.5;
+}
+
+
+p, h1 {
+  position: relative;
+  z-index: 10;
+}
+
+img {
+  position: relative;
+  z-index: 100;
 }
