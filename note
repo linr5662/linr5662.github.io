@@ -1,13 +1,13 @@
-https://linr5662.github.io/a4-generative/
+https://linr5662.github.io/a5-web-page-creation/
 
-https://github.com/linr5662/a4-generative
+https://github.com/linr5662/a5-web-page-creation
 
-[sketch-1 81342a9] change the line colour
+[sakura-section baeed0a] Added cherry blossom falling effect when clicked.
 
-[combine 56de4a4] Each click increases the number of snowflakes
+c0995ac Adjust to the appropriate position
 
-2c2f3bf Let the tree also bend with the wind
+6892d6c (origin/sakura-section, food) Change typing speed
 
-c5cba2e Control the upper limit of snowflakes
+bc1783d Fine-tuning the light color
 
-87d1282 Add mouse effects
+c5cd6dd Add glow and touch effects.
